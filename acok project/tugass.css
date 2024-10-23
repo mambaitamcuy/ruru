@@ -1,0 +1,29 @@
+div {
+    display: inline-block;
+    width: 40%;
+}
+
+p {
+    font-size: 2em;
+}
+
+.ucok {
+    float: left;
+    background-color: black;
+}
+
+.cecep {
+    float: right;
+    background-color: white;
+}
+
+
+img {
+    float: left;
+}
+
+footer {
+    clear: both;
+    text-align: center;
+    background-color: darkmagenta;
+}
